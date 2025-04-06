@@ -1,0 +1,1 @@
+export const Input = (props) => <input {...props} style={{ padding: '8px', width: '100%', marginBottom: '10px' }} />;
